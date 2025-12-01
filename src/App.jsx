@@ -42,7 +42,7 @@ function ContactPageWrapper() {
 
 export default function App() {
   return (
-    <Router basename="/apifetch">
+    <Router>
       <Routes>
         <Route path="/" element={<Interface />} />
         <Route path="/services" element={<ServicesPageWrapper />} />
