@@ -24,7 +24,7 @@ const Footer = ({ isDark }) => {
           <div className="lg:col-span-2">
             <div className="mb-6">
               <img 
-                src="/apifetch/logos/Z2.png" 
+                src="/logos/Z2.png" 
                 alt="ZentRedge" 
                 className="h-24 sm:h-28 md:h-32 w-auto object-contain transition-transform duration-300 hover:scale-110 cursor-pointer"
               />

@@ -48,7 +48,7 @@ const PageLayout = ({ children }) => {
               <div className="flex items-center">
                 <Link to="/" className="flex items-center py-2">
                   <img 
-                    src="/apifetch/logos/Z1.png" 
+                    src="/logos/Z1.png" 
                     alt="ZentRedge" 
                     className="h-20 sm:h-24 md:h-28 lg:h-32 w-auto object-contain transition-transform duration-300 hover:scale-110"
                   />

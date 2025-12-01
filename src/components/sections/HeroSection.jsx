@@ -97,7 +97,7 @@ const HeroSection = ({ isDark, visibleSections }) => {
                   isDark ? 'bg-[#2A2A2C]' : 'bg-[#F5F5F5]'
                 } border-4 border-[#FF6B00]/40 shadow-lg shadow-[#FF6B00]/20 transition-transform duration-300 hover:scale-110 cursor-pointer`}>
                   <img 
-                    src="/apifetch/logos/z3.png" 
+                    src="/logos/z3.png" 
                     alt="ZentRedge Cloud" 
                     className="w-52 h-52 object-cover"
                   />
